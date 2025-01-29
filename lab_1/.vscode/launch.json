@@ -5,7 +5,7 @@
         "type": "java",
         "request": "launch",
         "name": "Run Runner",
-        "mainClass": "com.example.Runner",
+        "mainClass": "com.example.Runner"//,
         // "projectName": "lab_1"
       }
     ]
